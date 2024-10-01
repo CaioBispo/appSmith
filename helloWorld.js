@@ -1,5 +1,5 @@
-function message() {
-    alert("Hello World");
+function testMessage() {
+    console.log("Hello World")
 }
 
-export { message };
+export { testMessage };
