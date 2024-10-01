@@ -1,5 +1,5 @@
 function testMessage() {
-    console.log("Hello World")
+    return 10
 }
 
 export { testMessage };
