@@ -1,5 +1,5 @@
-function showAlert() {
+function message() {
     alert("Hello World");
 }
 
-export { showAlert };
+export { message };
