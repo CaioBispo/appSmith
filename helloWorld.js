@@ -1,5 +1,5 @@
-function testMessage() {
-    return 10
-}
+const MyLibrary = {}
 
-export { testMessage };
+MyLibrary.testMessage = () => {
+    console.log("Hello World")
+}
