@@ -1,5 +1,5 @@
 const MyLibrary = {}
 
 MyLibrary.testMessage = () => {
-    console.log("Hello World")
+    return  {'message':"Hello World"}
 }
